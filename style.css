@@ -5,7 +5,7 @@
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #ffffff;
+    
     color: #545043;
     font-size: 15px;
     line-height: 1.5;
@@ -112,6 +112,3 @@ textarea{
         grid-template-columns: 1fr; 
     }   
 } 
-
-
-
